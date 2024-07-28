@@ -1,0 +1,86 @@
+
+/*amarelo #F2EA79*/
+/* amarelo fraco #F2DF7E*/
+/*vermelho #F28F79*/
+/*vermelho forte #F28379 */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Liu+Jian+Mao+Cao&family=Playwrite+BE+WAL:wght@100..400&family=Playwrite+DK+Loopet:wght@100..400&family=Playwrite+SK:wght@100..400&display=swap');
+:root{
+    --fonte1:"Playwrite BE WAL", cursive;
+    --fonten2:Arial, Helvetica, sans-serif;
+}
+*{
+    margin:0;
+    padding: 0px;
+}
+body{
+    background-color:#ecd880 ;
+    text-align:left ;
+    font-family: "Playwrite BE WAL", cursive;
+     
+    
+}
+header{
+    background-color: #F28379;
+    padding: 40px;
+    text-align: center;
+    border-radius: 7px 7px 0px 0px;
+    font-weight: bolder;
+    font-size: 1.5 em;
+    
+    
+    
+
+    
+}
+nav{
+    background-color: #F28379;
+    border: 0px solid black;
+    box-shadow: 1px 1px 2px black;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 7px 7px;
+
+}
+div{
+    display: inline-block;
+    margin-right: 12px;
+    padding-left: 40px;
+}
+a:hover{
+    color: #8000ff;
+    text-decoration: underline;
+    
+}
+a{
+    color: black;
+    text-decoration:none ;
+}
+img{
+    width: 150px;
+    height: 170PX;
+
+    
+    
+    
+    
+    
+}
+section{
+    padding: 0px;
+    margin-bottom: 2px;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color:#f4eb6c ;
+    
+
+    }
+    p.preço{
+        margin-top: 10px;
+        color: #f50c0c;
+        display: inline-block;
+        
+    }
+    
